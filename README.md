@@ -1,8 +1,10 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonDev&layout=compact)](https://github.com/WelsonDev/github-readme-stats)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/WelsonDev?username=WelsonDev](https://github.com/WelsonDev/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WelsonDev)](https://github.com/WelsonDev/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WelsonDev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WelsonDev/WelsonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
