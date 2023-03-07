@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonDev&layout=compact)](https://github.com/WelsonDev/github-readme-stats)
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/WelsonDev?username=WelsonDev](https://github.com/WelsonDev/github-readme-stats)
 
