@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonDev&layout=compact)](https://github.com/WelsonDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonDev&layout=compact&theme=dracula)](https://github.com/WelsonDev/github-readme-stats)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WelsonDev)](https://github.com/WelsonDev/github-readme-stats&theme=dracula)
