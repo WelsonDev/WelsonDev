@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on MIS / Data Analysis
 - 🌱 I’m currently learning Pyhton and Data Analysis
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
 
 <!--
 **WelsonDev/WelsonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
