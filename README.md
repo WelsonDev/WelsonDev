@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+
+- 🔭 I’m currently working on MIS / Data Analysis
+- 🌱 I’m currently learning Pyhton and Data Analysis
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonDev&layout=compact&theme=dracula)](https://github.com/WelsonDev/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WelsonDev&show_icons=true&theme=radical)
@@ -6,9 +11,6 @@
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WelsonDev)](https://github.com/WelsonDev/github-readme-stats&theme=dracula)
 -->
-
-- 🔭 I’m currently working on MIS / Data Analysis
-- 🌱 I’m currently learning Pyhton and Data Analysis
 
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,github,visualstudio,arduino)](https://skillicons.dev)
 
